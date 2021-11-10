@@ -1,0 +1,15 @@
+.red {
+    color: red;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Merriweather', serif;
+    font-family: 'Nunito', sans-serif;
+    text-align: right;
+    font-weight: bolder;
+    font-size: large;
+    border: 10px solid red;
+    width: 200px;
+
+}
+.span {
+    color: aliceblue;
+}
